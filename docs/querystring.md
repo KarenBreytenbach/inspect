@@ -1,6 +1,6 @@
 Quick ways to cache bust normally include adding a querystring with a version or timestamp to the static resource. 
 
-The default configuration on proxy severs like [SQUID](http://www.squid-cache.org/) are to not cache resources using a querystring.
+The default configuration on proxy servers like [SQUID](http://www.squid-cache.org/) are not to cache resources using a querystring.
 
 # How do I fix this ?
 
